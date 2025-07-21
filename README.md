@@ -72,12 +72,6 @@ kubectl delete deploy kubernetes-configmap-reload
 kubectl delete svc kubernetes-configmap-reload
 ```
 
-## 📂 **GitHub Repository**
-🔗 https://github.com/Nagaraju-209/Java_app_Jenkins_Docker
-
-## 🐳 **DockerHub Image**
-🔗 https://hub.docker.com/r/dnraju7747/kubernetes-configmap-reload
-
 ## 📝 **Notes**
 - Make sure your Kubernetes nodes have access to pull images from DockerHub.  
 - Ensure your kubeconfig is set correctly and points to the active EKS cluster.  
