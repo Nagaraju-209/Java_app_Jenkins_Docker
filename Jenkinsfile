@@ -20,7 +20,7 @@ pipeline{
             steps{
             gitCheckout(
                 branch: "main",
-                url: "https://github.com/Nagaraju-209/Java_app_3.0.git"
+                url: "https://github.com/Nagaraju-209/Java_app_Jenkins_Docker.git"
             )
             }
         }
